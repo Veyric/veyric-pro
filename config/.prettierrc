@@ -1,0 +1,9 @@
+{
+  "arrayBracketNewline": "always",
+  "arrowParens": "avoid",
+  "singleQuote": true,
+  "semi": false,
+  "objectCurlyNewline": "always",
+  "bracketSpacing": true,
+  "trailingComma": "none"
+}
