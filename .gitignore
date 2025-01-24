@@ -1,1 +1,68 @@
+# 依赖目录
 node_modules
+
+# 打包输出目录
+dist
+build
+
+# 日志文件
+*.log
+
+# 环境变量文件（如果包含敏感信息）
+.env.local
+.env.*.local
+
+# IDE 和编辑器相关文件
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# 临时文件
+*.tmp
+*.temp
+
+# 系统生成的文件
+.DS_Store
+Thumbs.db
+
+# Vue CLI 相关缓存文件
+.vuepress/.cache/
+
+# Jest 测试相关
+/coverage/
+
+# ESLint 缓存
+.eslintcache
+
+# Babel 缓存
+.babel-cache/
+
+# TypeScript 缓存
+.tscache/
+
+# Nuxt.js 相关
+.nuxt/
+
+# Vuex 持久化插件生成的文件
+vuex-persistedstate.json
+
+# 项目本地配置文件（如果有自定义配置且不希望提交）
+local.config.js
+
+# Yarn 相关
+.yarn/cache
+.pnp.*
+
+# npm 相关
+.npm
+
+# pnpm  相关
+.pnpm-store/
+
+# 可选：如果你使用 Docker 进行开发，忽略 Docker 构建生成的文件
+.dockerignore
+.docker/
