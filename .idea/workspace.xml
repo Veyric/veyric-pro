@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de638425-b87a-44da-9fe3-a3f29604cb7a" name="更改" comment="" />
+    <list default="true" id="de638425-b87a-44da-9fe3-a3f29604cb7a" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/.commitlint.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/config/.commitlint.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/.cz-config.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/config/.cz-config.cjs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +74,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737638303221</updated>
-      <workItem from="1737638304735" duration="26631000" />
+      <workItem from="1737638304735" duration="27049000" />
+      <workItem from="1737706555076" duration="579000" />
     </task>
     <servers />
   </component>

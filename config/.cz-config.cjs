@@ -38,7 +38,7 @@ module.exports = {
     }
   ],
   // 作用范围
-  scopes: [{ name: 'components' }, { name: 'utils' }],
+  scopes: [],
   // 允许自定义作用范围
   allowCustomScopes: true,
   // 允许跳过作用范围选择
